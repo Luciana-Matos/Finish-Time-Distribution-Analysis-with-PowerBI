@@ -2,13 +2,13 @@
 
 # 🏃 Making the Cut: Marathon Finish Time Distribution Analysis
 
-This project is based on the Maven Analytics **Making the Cut** Data Drill. The dataset contains finish times for **37,250 marathon runners**, along with demographic information such as age, gender, and half-marathon split times. The objective is to analyze how runners are distributed across predefined marathon finish-time bands. 【1-bd8fae】
+This project is based on the Maven Analytics **Making the Cut** Data Drill. The dataset contains finish times for **37,250 marathon runners**, along with demographic information such as age, gender, and half-marathon split times. The objective is to analyze how runners are distributed across predefined marathon finish-time bands. 
 
 Understanding finish-time distributions is useful for race organizers, coaches, and sports analysts because it helps identify performance trends, benchmark runner achievements, and better understand the composition of the field.
 
 ## 🎯 Objective
 
-Calculate the percentage of runners who finished within each of the following marathon time bands: 【1-bd8fae】
+Calculate the percentage of runners who finished within each of the following marathon time bands: 
 
 - Sub 3:00
 - 3:00 - 3:30
@@ -21,8 +21,7 @@ Calculate the percentage of runners who finished within each of the following ma
 
 ### Important Rule
 
-The bands are **lower-inclusive**, meaning a finish time of exactly **3:30:00** belongs to the **3:30 - 4:00** band, not the **3:00 - 3:30** band. 【1-bd8fae】
-
+The bands are **lower-inclusive**, meaning a finish time of exactly **3:30:00** belongs to the **3:30 - 4:00** band, not the **3:00 - 3:30** band. 
 ---
 
 # Tools Used
